@@ -1,4 +1,4 @@
-### I. Foundational Infrastructure Prerequisites
+### I. Infrastructure Prerequisites
 
 ```bash
 # Create dedicated operational user with appropriate permissions
