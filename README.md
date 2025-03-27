@@ -262,5 +262,3 @@ Once deployment is complete, execute the following validation procedures:
    ```bash
    top -p $(pgrep -f aandf)
    ```
-
-This enterprise deployment framework establishes a comprehensive monitoring architecture with modular components, robust security controls, and scalable implementation patterns designed for operational excellence in network security visibility.
